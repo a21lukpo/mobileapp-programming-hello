@@ -14,3 +14,5 @@ Sedan ändrade jag "hello world!" till "yep!".
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
+
+![]app.png
